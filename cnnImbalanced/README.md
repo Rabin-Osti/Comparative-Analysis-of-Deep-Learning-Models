@@ -10,4 +10,4 @@ The dataset is sourced from the "Dataset" directory, and it comprises images of 
 
 ## Evaluation
 
-After training, the model is evaluated on the test set. Classification metrics such as accuracy, precision, recall, and F1-score are computed. Additionally, a confusion matrix is generated to provide insights into the model's performance on individual classes.
+After training, the model is evaluated on the test set. Classification metrics such as accuracy, precision, recall, and F1-score are computed. The accuracy of the model was found to be 12%.
